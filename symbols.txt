@@ -1,0 +1,13 @@
+^   = repeated addition
+^^  = repeated multiplication
+^^^ = recursive multiplication
+⊖   = recursive subtraction
+⊘   = recursive division
+↧   = compression depth
+⌋   = inverse collapse
+≣   = computational equivalence
+∆   = transformation
+⊕   = merge operation
+Σ   = sequence summation
+Π   = multiplicative collapse
+↺   = recursive loop

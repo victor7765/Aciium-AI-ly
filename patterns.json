@@ -1,0 +1,1267 @@
+[
+    {
+        "expression": "\u221a100",
+        "result": "10.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "log(2048,2)",
+        "result": "11.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "3^^4",
+        "result": "81.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "56-135",
+        "result": "-79",
+        "runtime": 0.0
+    },
+    {
+        "expression": "1024\u21a74",
+        "result": "5.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(12+46)*28",
+        "result": "1300",
+        "runtime": 0.0
+    },
+    {
+        "expression": "256\u21a74",
+        "result": "4.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a04",
+        "result": "24",
+        "runtime": 0.0
+    },
+    {
+        "expression": "3^^^3",
+        "result": "7625597484987.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "224*111",
+        "result": "24864",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(9^5)+\u221a64",
+        "result": "Invalid ^ expression",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u221a25",
+        "result": "5.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "log(729,3)",
+        "result": "6.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "log(1024,2)",
+        "result": "10.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "5^^6",
+        "result": "15625.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a06",
+        "result": "720",
+        "runtime": 0.0
+    },
+    {
+        "expression": "125+220",
+        "result": "345",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(18+3)*20",
+        "result": "78",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(16+8)*13",
+        "result": "120",
+        "runtime": 0.0
+    },
+    {
+        "expression": "4^^^2",
+        "result": "256.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "128\u21a72",
+        "result": "7.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "6561\u21a73",
+        "result": "8.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a03",
+        "result": "6",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a328",
+        "result": "406.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "262144\u21a74",
+        "result": "9.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(3+17)*9",
+        "result": "156",
+        "runtime": 0.0
+    },
+    {
+        "expression": "243\u21a73",
+        "result": "4.999999999999999",
+        "runtime": 0.0
+    },
+    {
+        "expression": "6^^2",
+        "result": "36.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a313",
+        "result": "91.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "194/24",
+        "result": "8.083333333333334",
+        "runtime": 0.0
+    },
+    {
+        "expression": "4^^^3",
+        "result": "1.3407807929942597e+154",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(8^4)+\u221a64",
+        "result": "Invalid ^ expression",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(10^2)+\u221a64",
+        "result": "Invalid ^ expression",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(3^3)+\u221a64",
+        "result": "Invalid ^ expression",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a328",
+        "result": "406.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a311",
+        "result": "66.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "3^^^4",
+        "result": "1000000000000.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a316",
+        "result": "136.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(8^5)+\u221a64",
+        "result": "Invalid ^ expression",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(2+17)*47",
+        "result": "801",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(10^2)+\u221a64",
+        "result": "Invalid ^ expression",
+        "runtime": 0.0
+    },
+    {
+        "expression": "3^^^3",
+        "result": "7625597484987.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "287-27",
+        "result": "260",
+        "runtime": 0.0
+    },
+    {
+        "expression": "373+373",
+        "result": "746",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u221a81",
+        "result": "9.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "4^^^4",
+        "result": "1000000000000.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a04",
+        "result": "24",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(1+26)*12",
+        "result": "313",
+        "runtime": 0.0
+    },
+    {
+        "expression": "417-347",
+        "result": "70",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(16+23)*18",
+        "result": "430",
+        "runtime": 0.0006628036499023438
+    },
+    {
+        "expression": "2187\u21a73",
+        "result": "7.0",
+        "runtime": 0.0011951923370361328
+    },
+    {
+        "expression": "2^^2",
+        "result": "4.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "log(2048,2)",
+        "result": "11.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a07",
+        "result": "5040",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a04",
+        "result": "24",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(3^4)+\u221a64",
+        "result": "Invalid ^ expression",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u221a36",
+        "result": "6.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(10^2)+\u221a64",
+        "result": "Invalid ^ expression",
+        "runtime": 0.0
+    },
+    {
+        "expression": "4^^^3",
+        "result": "1.3407807929942597e+154",
+        "runtime": 0.0
+    },
+    {
+        "expression": "log(2048,2)",
+        "result": "11.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(5^4)+\u221a64",
+        "result": "Invalid ^ expression",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(7+15)*12",
+        "result": "187",
+        "runtime": 0.0
+    },
+    {
+        "expression": "64\u21a72",
+        "result": "6.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "2^^^4",
+        "result": "65536.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "4096\u21a74",
+        "result": "6.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a07",
+        "result": "5040",
+        "runtime": 0.0
+    },
+    {
+        "expression": "log(729,3)",
+        "result": "6.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "32/16",
+        "result": "2.0",
+        "runtime": 0.0010044574737548828
+    },
+    {
+        "expression": "\u03a07",
+        "result": "5040",
+        "runtime": 0.0
+    },
+    {
+        "expression": "4^^^3",
+        "result": "1.3407807929942597e+154",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a06",
+        "result": "720",
+        "runtime": 0.0
+    },
+    {
+        "expression": "32\u21a72",
+        "result": "5.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a06",
+        "result": "720",
+        "runtime": 0.0
+    },
+    {
+        "expression": "3^^5",
+        "result": "243.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "log(1000,10)",
+        "result": "2.9999999999999996",
+        "runtime": 0.0
+    },
+    {
+        "expression": "log(2048,2)",
+        "result": "11.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "182+481",
+        "result": "663",
+        "runtime": 0.0
+    },
+    {
+        "expression": "27\u21a73",
+        "result": "3.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "64\u21a72",
+        "result": "6.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(9^2)+\u221a64",
+        "result": "Invalid ^ expression",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a315",
+        "result": "120.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "27\u21a73",
+        "result": "3.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(23+4)*35",
+        "result": "163",
+        "runtime": 0.0
+    },
+    {
+        "expression": "246/3",
+        "result": "82.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "729\u21a73",
+        "result": "6.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(38+8)*23",
+        "result": "222",
+        "runtime": 0.0
+    },
+    {
+        "expression": "19683\u21a73",
+        "result": "9.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u221a64",
+        "result": "8.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a05",
+        "result": "120",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u221a64",
+        "result": "8.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "479-228",
+        "result": "251",
+        "runtime": 0.0
+    },
+    {
+        "expression": "377*168",
+        "result": "63336",
+        "runtime": 0.0
+    },
+    {
+        "expression": "5^^6",
+        "result": "15625.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a08",
+        "result": "40320",
+        "runtime": 0.0010154247283935547
+    },
+    {
+        "expression": "(9^2)+\u221a64",
+        "result": "Invalid ^ expression",
+        "runtime": 0.0
+    },
+    {
+        "expression": "2^^^2",
+        "result": "4.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(9^4)+\u221a64",
+        "result": "Invalid ^ expression",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(50+23)*39",
+        "result": "947",
+        "runtime": 0.0
+    },
+    {
+        "expression": "2^^^2",
+        "result": "4.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "31+329",
+        "result": "360",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(10^4)+\u221a64",
+        "result": "Invalid ^ expression",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(16+1)*27",
+        "result": "43",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(22+42)*8",
+        "result": "358",
+        "runtime": 0.0
+    },
+    {
+        "expression": "212/4",
+        "result": "53.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a311",
+        "result": "66.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u221a64",
+        "result": "8.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "247/6",
+        "result": "41.166666666666664",
+        "runtime": 0.0
+    },
+    {
+        "expression": "4^^4",
+        "result": "256.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "2^^^3",
+        "result": "16.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "243\u21a73",
+        "result": "4.999999999999999",
+        "runtime": 0.0
+    },
+    {
+        "expression": "3^^5",
+        "result": "243.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a324",
+        "result": "300.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a08",
+        "result": "40320",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u221a64",
+        "result": "8.0",
+        "runtime": 0.0007445812225341797
+    },
+    {
+        "expression": "170*404",
+        "result": "68680",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a327",
+        "result": "378.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(13+43)*37",
+        "result": "1604",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(3^5)+\u221a64",
+        "result": "Invalid ^ expression",
+        "runtime": 0.0
+    },
+    {
+        "expression": "64\u21a72",
+        "result": "6.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "4^^^2",
+        "result": "256.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "log(2048,2)",
+        "result": "11.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a03",
+        "result": "6",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u221a144",
+        "result": "12.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a06",
+        "result": "720",
+        "runtime": 0.0
+    },
+    {
+        "expression": "6^^5",
+        "result": "7776.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(10^3)+\u221a64",
+        "result": "Invalid ^ expression",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u221a25",
+        "result": "5.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a319",
+        "result": "190.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(39+42)*40",
+        "result": "1719",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a314",
+        "result": "105.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(2^2)+\u221a64",
+        "result": "Invalid ^ expression",
+        "runtime": 0.0
+    },
+    {
+        "expression": "51*146",
+        "result": "7446",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(30+44)*39",
+        "result": "1746",
+        "runtime": 0.0
+    },
+    {
+        "expression": "319*401",
+        "result": "127919",
+        "runtime": 0.0
+    },
+    {
+        "expression": "372-261",
+        "result": "111",
+        "runtime": 0.0
+    },
+    {
+        "expression": "log(1000,10)",
+        "result": "2.9999999999999996",
+        "runtime": 0.0
+    },
+    {
+        "expression": "2^^^3",
+        "result": "16.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u221a64",
+        "result": "8.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "2187\u21a73",
+        "result": "7.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "4^^^3",
+        "result": "1.3407807929942597e+154",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(5+42)*30",
+        "result": "1265",
+        "runtime": 0.0
+    },
+    {
+        "expression": "373/25",
+        "result": "14.92",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a03",
+        "result": "6",
+        "runtime": 0.0
+    },
+    {
+        "expression": "2^^^2",
+        "result": "4.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "4^^^2",
+        "result": "256.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(44+1)*16",
+        "result": "60",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a07",
+        "result": "5040",
+        "runtime": 0.0
+    },
+    {
+        "expression": "459/6",
+        "result": "76.5",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(18+37)*12",
+        "result": "462",
+        "runtime": 0.0
+    },
+    {
+        "expression": "243\u21a73",
+        "result": "4.999999999999999",
+        "runtime": 0.0
+    },
+    {
+        "expression": "2^^6",
+        "result": "64.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "3^^^4",
+        "result": "1000000000000.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "3^^^3",
+        "result": "7625597484987.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "4^^^4",
+        "result": "1000000000000.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(6^4)+\u221a64",
+        "result": "Invalid ^ expression",
+        "runtime": 0.0
+    },
+    {
+        "expression": "287+388",
+        "result": "675",
+        "runtime": 0.0
+    },
+    {
+        "expression": "log(1000,10)",
+        "result": "2.9999999999999996",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a07",
+        "result": "5040",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a03",
+        "result": "6",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(34+39)*50",
+        "result": "1984",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a05",
+        "result": "120",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a05",
+        "result": "120",
+        "runtime": 0.0
+    },
+    {
+        "expression": "2^^3",
+        "result": "8.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u221a49",
+        "result": "7.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "4^^^4",
+        "result": "1000000000000.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(21+49)*28",
+        "result": "1393",
+        "runtime": 0.0
+    },
+    {
+        "expression": "log(1000,10)",
+        "result": "2.9999999999999996",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u221a36",
+        "result": "6.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "log(1000,10)",
+        "result": "2.9999999999999996",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a06",
+        "result": "720",
+        "runtime": 0.0
+    },
+    {
+        "expression": "420*283",
+        "result": "118860",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(41+32)*26",
+        "result": "873",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(6^2)+\u221a64",
+        "result": "Invalid ^ expression",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(34+4)*26",
+        "result": "138",
+        "runtime": 0.0
+    },
+    {
+        "expression": "log(2048,2)",
+        "result": "11.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "81\u21a73",
+        "result": "4.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(3^2)+\u221a64",
+        "result": "Invalid ^ expression",
+        "runtime": 0.0011982917785644531
+    },
+    {
+        "expression": "\u03a316",
+        "result": "136.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a315",
+        "result": "120.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u221a36",
+        "result": "6.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(1+36)*30",
+        "result": "1081",
+        "runtime": 0.0
+    },
+    {
+        "expression": "log(729,3)",
+        "result": "6.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "420/7",
+        "result": "60.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "3^^^4",
+        "result": "1000000000000.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a318",
+        "result": "171.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "2^^2",
+        "result": "4.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "258/6",
+        "result": "43.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u221a25",
+        "result": "5.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(32+49)*10",
+        "result": "522",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(40+23)*35",
+        "result": "845",
+        "runtime": 0.0
+    },
+    {
+        "expression": "55/21",
+        "result": "2.619047619047619",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a321",
+        "result": "231.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a318",
+        "result": "171.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a04",
+        "result": "24",
+        "runtime": 0.0004589557647705078
+    },
+    {
+        "expression": "\u221a36",
+        "result": "6.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "log(1024,2)",
+        "result": "10.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "250*132",
+        "result": "33000",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u221a100",
+        "result": "10.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a318",
+        "result": "171.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "87*28",
+        "result": "2436",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a08",
+        "result": "40320",
+        "runtime": 0.0
+    },
+    {
+        "expression": "152*355",
+        "result": "53960",
+        "runtime": 0.0
+    },
+    {
+        "expression": "log(1024,2)",
+        "result": "10.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "4^^^3",
+        "result": "1.3407807929942597e+154",
+        "runtime": 0.0
+    },
+    {
+        "expression": "2^^6",
+        "result": "64.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "3^^^3",
+        "result": "7625597484987.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "4^^6",
+        "result": "4096.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "292/17",
+        "result": "17.176470588235293",
+        "runtime": 0.0
+    },
+    {
+        "expression": "512\u21a72",
+        "result": "9.0",
+        "runtime": 0.0011277198791503906
+    },
+    {
+        "expression": "\u03a322",
+        "result": "253.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "log(1000,10)",
+        "result": "2.9999999999999996",
+        "runtime": 0.0009257793426513672
+    },
+    {
+        "expression": "\u03a37",
+        "result": "28.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "729\u21a73",
+        "result": "6.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "318-496",
+        "result": "-178",
+        "runtime": 0.0
+    },
+    {
+        "expression": "369*104",
+        "result": "38376",
+        "runtime": 0.0
+    },
+    {
+        "expression": "4^^^2",
+        "result": "256.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(46+22)*26",
+        "result": "618",
+        "runtime": 0.0
+    },
+    {
+        "expression": "3^^^3",
+        "result": "7625597484987.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "4^^^4",
+        "result": "1000000000000.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "log(1000,10)",
+        "result": "2.9999999999999996",
+        "runtime": 0.0
+    },
+    {
+        "expression": "log(1024,2)",
+        "result": "10.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(1+42)*23",
+        "result": "967",
+        "runtime": 0.0
+    },
+    {
+        "expression": "log(2048,2)",
+        "result": "11.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "log(1000,10)",
+        "result": "2.9999999999999996",
+        "runtime": 0.0008938312530517578
+    },
+    {
+        "expression": "(2^5)+\u221a64",
+        "result": "Invalid ^ expression",
+        "runtime": 0.0
+    },
+    {
+        "expression": "4^^^4",
+        "result": "1000000000000.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u221a256",
+        "result": "16.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "3^^^4",
+        "result": "1000000000000.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "1024\u21a74",
+        "result": "5.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "240+418",
+        "result": "658",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a04",
+        "result": "24",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a05",
+        "result": "120",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(6^4)+\u221a64",
+        "result": "Invalid ^ expression",
+        "runtime": 0.0
+    },
+    {
+        "expression": "323-180",
+        "result": "143",
+        "runtime": 0.0006883144378662109
+    },
+    {
+        "expression": "4^^^3",
+        "result": "1.3407807929942597e+154",
+        "runtime": 0.0
+    },
+    {
+        "expression": "314-186",
+        "result": "128",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a08",
+        "result": "40320",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(9+32)*33",
+        "result": "1065",
+        "runtime": 0.0
+    },
+    {
+        "expression": "2^^5",
+        "result": "32.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "6^^3",
+        "result": "216.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "4^^4",
+        "result": "256.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(34+17)*47",
+        "result": "833",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u221a64",
+        "result": "8.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u221a256",
+        "result": "16.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a06",
+        "result": "720",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(6^5)+\u221a64",
+        "result": "Invalid ^ expression",
+        "runtime": 0.0
+    },
+    {
+        "expression": "1024\u21a72",
+        "result": "10.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "2^^6",
+        "result": "64.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "2^^6",
+        "result": "64.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(33+37)*47",
+        "result": "1772",
+        "runtime": 0.0
+    },
+    {
+        "expression": "4^^^4",
+        "result": "1000000000000.0",
+        "runtime": 0.0
+    },
+    {
+        "expression": "(3+2)*41",
+        "result": "85",
+        "runtime": 0.0
+    },
+    {
+        "expression": "\u03a05",
+        "result": "120",
+        "runtime": 0.0
+    }
+]
